@@ -1,4 +1,5 @@
-from mpl_toolkits.mplot3d import Axes3D
+f
+om mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 from matplotlib import pyplot as plt
 
@@ -28,4 +29,4 @@ ax.set_zlabel('variable Z')
 
 plt.title('3D Scatter Plot')
 
-plt.show()
+plt.show() #test_git
